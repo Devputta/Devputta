@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadevu M P </h1>
-<h3 align="center">💻 Data & Software Engineer | Python | SQL | Power BI | Machine Learning | Data Analytics 🚀</h3>
-
+<!--<h3 align="center">💻 Data & Software Engineer | Python | SQL | Power BI | Machine Learning | Data Analytics 🚀</h3>-->
 
 <!-- 🌈 Fading Line GIF -->
 <p align="center">
