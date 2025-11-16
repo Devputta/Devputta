@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahadevu M P </h1>
 <!--<h3 align="center">💻 Data & Software Engineer | Python | SQL | Power BI | Machine Learning | Data Analytics 🚀</h3>-->
-<!-- 🌈 Fading Line GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Fading Line">
-</p>
+
 
 <!-- 🌟 Awesome Workspace GIF -->
 <p align="center">
@@ -79,3 +76,7 @@
 </p>
 
 ⭐ **If you enjoy my work, consider following me and leaving a ⭐ on my repositories!**
+<!-- 🌈 Fading Line GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Fading Line">
+</p>
