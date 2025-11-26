@@ -75,6 +75,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200" alt="Handshake">
 </p>
 
+## 🏅 HackerRank
+
+[![HackerRank Badges](https://hackerrank-badges.vercel.app/mahadevump657)](https://www.hackerrank.com/profile/mahadevump657)
+
+
 ⭐ **If you enjoy my work, consider following me and leaving a ⭐ on my repositories!**
 <!-- 🌈 Fading Line GIF -->
 <p align="center">
