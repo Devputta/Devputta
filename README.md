@@ -1,23 +1,37 @@
-<h1 align="center">Hi 👋, I'm Mahadevu M P </h1>
-<!--<h3 align="center">💻 Data & Software Engineer | Python | SQL | Power BI | Machine Learning | Data Analytics 🚀</h3>-->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahadevu+M+P;Engineer;Data+%7C+Software+%7C+ML+Enthusiast;AI-Assisted+Developer+%F0%9F%A4%96" alt="Typing SVG" />
+</h1>
 
-
-<!-- 🌟 Awesome Workspace GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Awesome Workspace">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"/>
+  <em>Welcome to my corner of GitHub!</em>
 </p>
 
+<p align="center">
+  <a href="https://mahadevump.lovable.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-mahadevump.lovable.app-22D3EE?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/mahadevu-m-p"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahadevump657@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devputta&label=Profile%20views&color=22d3ee&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devputta&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devputta&theme=tokyonight&hide_border=true" height="160" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devputta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Devputta&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devputta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devputta&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devputta&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -25,75 +39,64 @@
 ### 🧠 Top Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-005571?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualization-0078D4?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css,mysql,mongodb,git,github,vscode,linux&perline=7" />
 </p>
 
 ---
 
 ### 📚 Publication
 
-**Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine Learning Powered Analytics**  
-📅 *Published: 06-04-2025*  
-📰 *The Asian Review of Civil Engineering, 14(1), 37–42*  
-🔗 [Read Publication](https://doi.org/10.70112/tarce-2025.14.1.4261)  
-🧩 *Keywords:* Internet of Things (IoT), Water Management, Machine Learning (ML), LSTM, Anomaly Detection
+> **Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine Learning Powered Analytics**
+> 📅 *Published:* 06-04-2025
+> 📰 *The Asian Review of Civil Engineering, 14(1), 37–42*
+> 🔗 [Read Publication](https://doi.org/10.70112/tarce-2025.14.1.4261)
+> 🧩 *Keywords:* IoT · Water Management · Machine Learning · LSTM · Anomaly Detection
+
+---
+
+### ⚡ About Me
+
+- 🎯 Focused on **data analytics, software development, and ML-driven insights**
+- 💡 Passionate about **data-driven applications and problem-solving**
+- 🎨 I also enjoy **crafting, painting, and reviewing movies/series**
+- 🚀 Exploring **data pipelines, ML deployment, and cloud analytics**
+- 🧠 Motto: *“Code smart. Analyze deeper. Automate better.”*
+
+---
+
+### 🏆 Achievements
+
+**HackerRank Certifications**
+
+- 🟢 **SQL (Basic)** — [View Certificate](https://www.hackerrank.com/certificates/e17870f3f8c5)
+
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/e17870f3f8c5">
+    <img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahadevu-m-p-58b51426b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Devputta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mahadevump657@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/Devputta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mahadevu-m-p"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahadevump657@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mahadevump.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ About Me
-- 🎯 Focused on **data analytics, software development, and ML-driven insights**  
-- 💡 Passionate about **data-driven applications and problem-solving**  
-- 🎨 I also enjoy **crafting, painting, and reviewing movies/series**  
-- 🚀 Exploring **data pipelines, ML deployment, and cloud analytics**  
-- 🧠 Motto: *“Code smart. Analyze deeper. Automate better.”*
-
-
-<!-- 🤝 Handshake GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200" alt="Handshake">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
-
-## 🏆 Achievements
-
-### ✔️ HackerRank Certifications
-
-- 🟢 **SQL Certificate**  
-  🔗 [View Certificate](https://www.hackerrank.com/certificates/e17870f3f8c5)  
-  🔗 [iFrame Version](https://www.hackerrank.com/certificates/iframe/e17870f3f8c5)
-
-### 🎖️ Badge  
-[![HackerRank SQL Badge](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/e17870f3f8c5)
-
-
----
-
-
-⭐ **If you enjoy my work, consider following me and leaving a ⭐ on my repositories!**
-<!-- 🌈 Fading Line GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Fading Line">
+  ⭐ <em>If you enjoy my work, consider following me and starring my repositories!</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" />
 </p>
