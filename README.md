@@ -19,22 +19,40 @@
 
 ---
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devputta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Devputta&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Devputta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Devputta&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devputta&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devputta&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devputta&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Devputta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ### 🧠 Top Skills
 
