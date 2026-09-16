@@ -50,12 +50,11 @@ I'm **DevPutta**, a **Vibe Coder** interested in building practical software and
 
 | Area             | Skills                                                |
 | ---------------- | ----------------------------------------------------- |
-| Programming      | Python, Java, C, JavaScript, TypeScript               |
+| Programming      | Python, Java, C              |
 | Database         | SQL, MySQL, MongoDB                                   |
 | Data             | Data Analysis, Data Cleaning, ETL, Data Visualization |
 | BI               | Power BI, DAX, Power Pivot, Advanced Excel            |
 | Data Engineering | AWS, Snowflake, dbt, ETL Pipelines                    |
-| Development      | React, Node.js, HTML, CSS                             |
 | Automation       | UiPath, RPA                                           |
 | Tools            | Git, GitHub, VS Code, Jupyter                         |
 | AI / ML          | Machine Learning, LSTM, AI-assisted Development       |
