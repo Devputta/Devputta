@@ -67,12 +67,6 @@ My certificates are available in the repository's **Images** folder.
 
 🔗 **[View All Certificate Images](https://github.com/Devputta/M-P-Portfolio/tree/main/images)**
 
-### 🏆 HackerRank — SQL
-
-**SQL (Basic)**
-
-[View Certificate](https://www.hackerrank.com/certificates/e17870f3f8c5)
-
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/e17870f3f8c5">
     <img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
@@ -82,6 +76,7 @@ My certificates are available in the repository's **Images** folder.
 ### 🎓 Additional Certifications & Training
 
 * 🐍 **NPTEL — Python Programming**
+* 🟢 HackerRank — SQL 
 * ☁️ **NPTEL — Cloud Computing**
 * 🌐 **NPTEL — Internet of Things**
 * 🔐 **Zscaler / Eduskills — Cyber Security Fundamentals**
