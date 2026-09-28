@@ -65,7 +65,7 @@ I'm **DevPutta**, a **Vibe Coder** interested in building practical software and
 
 My certificates are available in the repository's **Images** folder.
 
-🔗 **[View All Certificate Images](https://github.com/Devputta/M-P-Portfolio/tree/main/images)**
+🔗 **[View All Certificate Images](https://github.com/Devputta/M_P_Certificates-.git)**
 
 <p align="">
   <a href="https://www.hackerrank.com/certificates/e17870f3f8c5">
