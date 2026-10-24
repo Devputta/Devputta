@@ -1,154 +1,86 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+DevPutta;Vibe+Coder;Data+%7C+Software+%7C+AI+Enthusiast;Building+%7C+Learning+%7C+Creating+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+# Mahadevu M P (DevPutta)
 
-<p align="center">
-  <em>Welcome to my corner of GitHub!</em>
-</p>
+Software Development | Data Engineering | AI-Assisted Applications
 
-<p align="center">
-  <a href="https://devputta.github.io/M-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-22D3EE?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahadevu-m-p-58b51426b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mahadevump657@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devputta&label=Profile%20Views&color=22D3EE&style=flat" alt="Profile Views" />
-</p>
+[Portfolio](https://devputta.github.io/M-portfolio/) | [LinkedIn](https://www.linkedin.com/in/mahadevu-m-p-58b51426b/) | [Email](mailto:mahadevump657@gmail.com) | [GitHub](https://github.com/Devputta)
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **DevPutta**, a **Vibe Coder** interested in building practical software and data-driven applications.
+Thanks for dropping by. I am Mahadevu M P, known on GitHub as DevPutta, a developer interested in software development, data engineering, and AI-assisted applications, with a focus on building practical, data-driven solutions.
 
-* 💻 Interested in **Software Development & Data Engineering**
-* 🐍 Working with **Python & SQL**
-* 📊 Exploring **Data Analytics & Power BI**
-* ☁️ Learning and building with **Cloud & Data Platforms**
-* 🤖 Exploring **AI-assisted development and AI applications**
-* 🔄 Interested in **ETL pipelines, automation, and analytics-ready data**
-* 🎨 Outside coding, I enjoy **crafting, painting, and movies/series**
+I work with Python and SQL, and I am exploring ETL pipelines, automation, analytics-ready data, and Power BI. I am also learning and building with cloud and data platforms, and using AI-assisted development to turn ideas into working software faster.
 
-> **“Code smart. Analyze deeper. Automate better.”**
+Outside of coding, I enjoy crafting, painting, and watching movies and series.
+
+> "Code smart. Analyze deeper. Automate better."
 
 ---
 
-## 🧠 Top Skills
+## Technologies and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css,mysql,mongodb,git,github,vscode,linux&perline=7" />
-</p>
-
-### 🔧 Technologies & Tools
-
-| Area             | Skills                                                |
-| ---------------- | ----------------------------------------------------- |
-| Programming      | Python, Java, C              |
-| Database         | SQL, MySQL, MongoDB                                   |
-| Data             | Data Analysis, Data Cleaning, ETL, Data Visualization |
-| BI               | Power BI, DAX, Power Pivot, Advanced Excel            |
-| Data Engineering | AWS, Snowflake, dbt, ETL Pipelines                    |
-| Automation       | UiPath, RPA                                           |
-| Tools            | Git, GitHub, VS Code, Jupyter                         |
-| AI / ML          | Machine Learning, LSTM, AI-assisted Development       |
+| Area | Skills |
+| --- | --- |
+| Programming | Python, Java, C |
+| Databases | SQL, MySQL, MongoDB |
+| Data | Data Analysis, Data Cleaning, ETL, Data Visualization |
+| Business Intelligence | Power BI, DAX, Power Pivot, Advanced Excel |
+| Data Engineering | AWS, Snowflake, dbt, ETL Pipelines |
+| Automation | UiPath, RPA |
+| AI / ML | Machine Learning, LSTM, AI-assisted Development |
+| Tools | Git, GitHub, VS Code, Jupyter |
 
 ---
 
-## 📜 Certificates
+## Publication
 
-My certificates are available in the repository's **Images** folder.
+**IoT-Based Automatic Water Monitoring System**
+Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine Learning Powered Analytics
 
-🔗 **[View All Certificate Images](https://github.com/Devputta/M_P_Certificates-.git)**
-
-<p align="">
-  <a href="https://www.hackerrank.com/certificates/e17870f3f8c5">
-    <img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
-### 🎓 Additional Certifications & Training
-
-* 🐍 **NPTEL — Python Programming**
-* 🟢 HackerRank — SQL 
-* ☁️ **NPTEL — Cloud Computing**
-* 🌐 **NPTEL — Internet of Things**
-* 🔐 **Zscaler / Eduskills — Cyber Security Fundamentals**
-* 🌐 **Networking Virtual Internship — Eduskills**
-* 🤖 **Associate Intern — RPA & Intelligent Automation**
-* 📊 **Data Analysis Internship**
-* 🗣️ **Laquill — Level 1 to 3rd English**
-
-> Certificate images and supporting documents are available in the repository.
+- Journal: The Asian Review of Civil Engineering, 14(1), 37-42
+- Published: 06 April 2025
+- Link: [Read the publication](https://doi.org/10.70112/tarce-2025.14.1.4261)
+- Keywords: IoT, Water Management, Machine Learning, LSTM, Anomaly Detection
 
 ---
 
-## 📚 Publication
+## Certifications and Training
 
-### IoT-Based Automatic Water Monitoring System
+- HackerRank: SQL (Basic) - [View certificate](https://www.hackerrank.com/certificates/e17870f3f8c5)
+- NPTEL: Python Programming
+- NPTEL: Cloud Computing
+- NPTEL: Internet of Things
+- Zscaler / Eduskills: Cyber Security Fundamentals
+- Eduskills: Networking Virtual Internship
+- Associate Intern: RPA and Intelligent Automation
+- Data Analysis Internship
+- Laquill: English, Levels 1 to 3
 
-**Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine Learning Powered Analytics**
-
-📅 **Published:** 06 April 2025
-📰 **Journal:** The Asian Review of Civil Engineering, 14(1), 37–42
-
-🔗 **[Read Publication](https://doi.org/10.70112/tarce-2025.14.1.4261)**
-
-**Keywords:** IoT · Water Management · Machine Learning · LSTM · Anomaly Detection
-
----
-
-## 🚀 What I'm Working With
-
-```text
-Python          ████████████████████
-SQL             ████████████████████
-Data Engineering██████████████████░░
-Power BI        ██████████████████░░
-Java            ███████████████░░░░░
-React           ██████████████░░░░░░
-Cloud           █████████████░░░░░░░
-AI / ML         ██████████████░░░░░░
-```
+Certificate images are available in the [certificates repository](https://github.com/Devputta/M_P_Certificates-).
 
 ---
 
-## 🔗 Connect With Me
+## Quick Links
 
-<p align="center">
-  <a href="https://github.com/Devputta">
-    <img src="https://img.shields.io/badge/GitHub-DevPutta-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+Portfolio and projects:
 
-  <a href="https://www.linkedin.com/in/mahadevu-m-p-58b51426b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahadevu%20M%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+- [Portfolio Website](https://devputta.github.io/M-portfolio/)
+- [GitHub Repositories](https://github.com/Devputta?tab=repositories)
 
-  <a href="mailto:mahadevump657@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Credentials:
 
-  <a href="https://devputta.github.io/M-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+- [Certificate Images](https://github.com/Devputta/M_P_Certificates-)
+- [HackerRank SQL (Basic) Certificate](https://www.hackerrank.com/certificates/e17870f3f8c5)
+- [Published Research Paper](https://doi.org/10.70112/tarce-2025.14.1.4261)
 
 ---
 
-<p align="center">
-  <em>Thanks for visiting my profile! 🚀</em>
-</p>
+## Contact
 
-<p align="center">
-  ⭐ If you find something useful here, feel free to follow me or explore my repositories.
-</p>
+- GitHub: [Devputta](https://github.com/Devputta)
+- LinkedIn: [Mahadevu M P](https://www.linkedin.com/in/mahadevu-m-p-58b51426b/)
+- Email: [mahadevump657@gmail.com](mailto:mahadevump657@gmail.com)
+- Portfolio: [devputta.github.io/M-portfolio](https://devputta.github.io/M-portfolio/)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" />
-</p>
+Thanks for visiting my profile.
