@@ -1,8 +1,24 @@
-# Mahadevu M P (DevPutta)
+<table width="100%">
+<tr>
+<td valign="middle">
 
-Software Development | Data Engineering | AI-Assisted Applications
+<h1>Mahadevu M P (DevPutta)</h1>
 
-[Portfolio](https://devputta.github.io/M-portfolio/) | [LinkedIn](https://www.linkedin.com/in/mahadevu-m-p-58b51426b/) | [Email](mailto:mahadevump657@gmail.com) | [GitHub](https://github.com/Devputta)
+<p>Software Development | Data Engineering | AI-Assisted Applications</p>
+
+<p>
+<a href="https://devputta.github.io/M-portfolio/">Portfolio</a> |
+<a href="https://www.linkedin.com/in/mahadevu-m-p-58b51426b/">LinkedIn</a> |
+<a href="mailto:mahadevump657@gmail.com">Email</a> |
+<a href="https://github.com/Devputta">GitHub</a>
+</p>
+
+</td>
+<td align="right" valign="middle" width="220">
+<img src="https://raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%20(1).jfif" alt="DevPutta Logo" width="200" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -18,6 +34,10 @@ Outside of coding, I enjoy crafting, painting, and watching movies and series.
 
 ---
 
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
 ## Technologies and Tools
 
 | Area | Skills |
@@ -25,25 +45,14 @@ Outside of coding, I enjoy crafting, painting, and watching movies and series.
 | Programming | Python, Java, C |
 | Databases | SQL, MySQL, MongoDB |
 | Data | Data Analysis, Data Cleaning, ETL, Data Visualization |
-| Business Intelligence | Power BI, DAX, Power Pivot, Advanced Excel |
+| BI | Power BI, DAX, Power Pivot, Advanced Excel |
 | Data Engineering | AWS, Snowflake, dbt, ETL Pipelines |
 | Automation | UiPath, RPA |
 | AI / ML | Machine Learning, LSTM, AI-assisted Development |
 | Tools | Git, GitHub, VS Code, Jupyter |
 
----
-
-## Publication
-
-**IoT-Based Automatic Water Monitoring System**
-Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine Learning Powered Analytics
-
-- Journal: The Asian Review of Civil Engineering, 14(1), 37-42
-- Published: 06 April 2025
-- Link: [Read the publication](https://doi.org/10.70112/tarce-2025.14.1.4261)
-- Keywords: IoT, Water Management, Machine Learning, LSTM, Anomaly Detection
-
----
+</td>
+<td valign="top" width="50%">
 
 ## Certifications and Training
 
@@ -57,22 +66,23 @@ Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine
 - Data Analysis Internship
 - Laquill: English, Levels 1 to 3
 
-Certificate images are available in the [certificates repository](https://github.com/Devputta/M_P_Certificates-).
+Certificate images: [certificates repository](https://github.com/Devputta/M_P_Certificates-)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Quick Links
+## Publication
 
-Portfolio and projects:
+**IoT-Based Automatic Water Monitoring System**
+Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine Learning Powered Analytics
 
-- [Portfolio Website](https://devputta.github.io/M-portfolio/)
-- [GitHub Repositories](https://github.com/Devputta?tab=repositories)
-
-Credentials:
-
-- [Certificate Images](https://github.com/Devputta/M_P_Certificates-)
-- [HackerRank SQL (Basic) Certificate](https://www.hackerrank.com/certificates/e17870f3f8c5)
-- [Published Research Paper](https://doi.org/10.70112/tarce-2025.14.1.4261)
+- Journal: The Asian Review of Civil Engineering, 14(1), 37-42
+- Published: 06 April 2025
+- Link: [Read the publication](https://doi.org/10.70112/tarce-2025.14.1.4261)
+- Keywords: IoT, Water Management, Machine Learning, LSTM, Anomaly Detection
 
 ---
 
