@@ -1,38 +1,36 @@
-<table width="100%">
-<tr>
-<td valign="middle">
+<h1 align="center">Mahadevu M P (DevPutta)</h1>
 
-<h1>Mahadevu M P (DevPutta)</h1>
+<p align="center">Software Development | Data Engineering | AI-Assisted Applications</p>
 
-<p>Software Development | Data Engineering | AI-Assisted Applications</p>
-
-
-<p>
+<p align="center">
 <a href="https://devputta.github.io/M-portfolio/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mahadevu-m-p-58b51426b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mahadevump657@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Devputta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+---
+
+<table width="100%">
+<tr>
+<td valign="middle" width="68%">
+
+<h2>About</h2>
+
+<p>Thanks for dropping by. I am Mahadevu M P, known on GitHub as DevPutta, a developer interested in software development, data engineering, and AI-assisted applications, with a focus on building practical, data-driven solutions.</p>
+
+<p>I work with Python and SQL, and I am exploring ETL pipelines, automation, analytics-ready data, and Power BI. I am also learning and building with cloud and data platforms, and using AI-assisted development to turn ideas into working software faster.</p>
+
+<p>Outside of coding, I enjoy crafting, painting, and watching movies and series.</p>
+
+<blockquote><em>"Code smart. Analyze deeper. Automate better."</em></blockquote>
+
 </td>
-<td width="80"></td>
-<td align="center" valign="middle" width="220">
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%2520(1).jfif&w=400&h=400&fit=cover&mask=circle&output=png" alt="DevPutta Logo" width="200" />
+<td align="center" valign="middle" width="32%">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%2520(1).jfif&w=400&h=400&fit=cover&mask=circle&output=png" alt="DevPutta Logo" width="220" />
 </td>
 </tr>
 </table>
-
----
-
-## About
-
-Thanks for dropping by. I am Mahadevu M P, known on GitHub as DevPutta, a developer interested in software development, data engineering, and AI-assisted applications, with a focus on building practical, data-driven solutions.
-
-I work with Python and SQL, and I am exploring ETL pipelines, automation, analytics-ready data, and Power BI. I am also learning and building with cloud and data platforms, and using AI-assisted development to turn ideas into working software faster.
-
-Outside of coding, I enjoy crafting, painting, and watching movies and series.
-
-> "Code smart. Analyze deeper. Automate better."
 
 ---
 
@@ -93,6 +91,6 @@ Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine
 - GitHub: [Devputta](https://github.com/Devputta)
 - LinkedIn: [Mahadevu M P](https://www.linkedin.com/in/mahadevu-m-p-58b51426b/)
 - Email: [mahadevump657@gmail.com](mailto:mahadevump657@gmail.com)
-- Portfolio: [Mahadevu M P](https://devputta.github.io/M-portfolio/)
+- Portfolio: [devputta.github.io/M-portfolio](https://devputta.github.io/M-portfolio/)
 
-Thanks for visiting my profile.
+<p align="center">Thanks for visiting my profile.</p>
