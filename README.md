@@ -6,16 +6,18 @@
 
 <p>Software Development | Data Engineering | AI-Assisted Applications</p>
 
+
 <p>
-<a href="https://devputta.github.io/M-portfolio/">Portfolio</a> |
-<a href="https://www.linkedin.com/in/mahadevu-m-p-58b51426b/">LinkedIn</a> |
-<a href="mailto:mahadevump657@gmail.com">Email</a> |
-<a href="https://github.com/Devputta">GitHub</a>
+<a href="https://devputta.github.io/M-portfolio/"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mahadevu-m-p-58b51426b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mahadevump657@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Devputta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </td>
-<td align="right" valign="middle" width="220">
-<img src="https://raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%20(1).jfif" alt="DevPutta Logo" width="200" />
+<td width="80"></td>
+<td align="center" valign="middle" width="220">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%2520(1).jfif&w=400&h=400&fit=cover&mask=circle&output=png" alt="DevPutta Logo" width="200" />
 </td>
 </tr>
 </table>
@@ -91,6 +93,6 @@ Enhancing Water Management in Buildings Through IoT-Based Monitoring and Machine
 - GitHub: [Devputta](https://github.com/Devputta)
 - LinkedIn: [Mahadevu M P](https://www.linkedin.com/in/mahadevu-m-p-58b51426b/)
 - Email: [mahadevump657@gmail.com](mailto:mahadevump657@gmail.com)
-- Portfolio: [devputta.github.io/M-portfolio](https://devputta.github.io/M-portfolio/)
+- Portfolio: [Mahadevu M P](https://devputta.github.io/M-portfolio/)
 
 Thanks for visiting my profile.
