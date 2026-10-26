@@ -27,11 +27,18 @@
 
 </td>
 <td align="center" valign="middle" width="32%">
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Devputta/Drafts-might-be-needed-/main/LOGO/Gemini_Generated_Image_1ppnm1ppnm1ppnm1%2520(1).jfif&w=400&h=400&fit=cover&mask=circle&output=png" alt="DevPutta Logo" width="220" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devputta/LOGO/main/logo-3d-spin%20(1).png" alt="DevPutta Logo" width="260" />
+</p>
+
+<h1 align="center">DevPutta</h1>
+
+<p align="center">
+  <em></em>
+</p>
 </td>
 </tr>
 </table>
-
 ---
 
 <table width="100%">
